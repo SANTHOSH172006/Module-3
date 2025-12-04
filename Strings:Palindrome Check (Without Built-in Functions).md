@@ -1,4 +1,4 @@
-# EX-3:Strings-Palindrome Check in Python (Without Built-in Functions)
+# EX-3(D):Strings-Palindrome Check in Python (Without Built-in Functions)
 
 ##  Aim
 To write a Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions.
